@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b9aee416-37c4-4c96-a35f-f02eb498486f/AppServices/subscriptions/b9aee416-37c4-4c96-a35f-f02eb498486f/resourceGroups/CloudComputing/providers/Microsoft.Web/sites/DataVisualizationProject",
+    "appService.deploySubpath": "."
+}
